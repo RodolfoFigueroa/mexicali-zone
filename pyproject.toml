@@ -28,6 +28,13 @@ earthengine-api = "^1.6.2"
 geemap = "^0.36.0"
 geedim = "^1.9.1"
 pykrige = "^1.7.2"
+binsreg = "^2.1.7"
+scikit-image = "^0.25.2"
+libpysal = "^4.13.0"
+esda = "^2.7.1"
+scikit-gstat = "^1.0.21"
+pyinterpolate = "^1.0.3"
+photutils = "^2.2.0"
 
 
 [build-system]
